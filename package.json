@@ -33,9 +33,9 @@
     "us",
     "names",
     "capitals",
- 		"mapping",
- 		"hash",
- 		"table"
+    "mapping",
+    "hash",
+    "table"
   ],
   "bugs": {
     "url": "https://github.com/datasets-io/us-states-capitals-names/issues"
